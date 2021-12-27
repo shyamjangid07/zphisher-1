@@ -160,7 +160,7 @@ banner() {
 		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
 		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
 		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.2
+		${ORANGE}      |_|                ${RED}Version : 3.0
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by SHYAM (shyam.jangid)${WHITE}
 	EOF
